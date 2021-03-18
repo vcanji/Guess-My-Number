@@ -1,4 +1,4 @@
-# Countdown_Timer
+# Guess-My-Number
 ## Tehnologies used
 *HTML
 *CSS
